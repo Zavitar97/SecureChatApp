@@ -1,13 +1,13 @@
 # Secure Chat
 
-Client side secure chat, based on [node.js](https://nodejs.org), [socket.io](https://socket.io/) and [asymmetric encryption](https://en.wikipedia.org/wiki/Public-key_cryptography) without open storage on server side.
+Client Side Secure Chat, Based on [node.js](https://nodejs.org), [socket.io](https://socket.io/) and [asymmetric encryption](https://en.wikipedia.org/wiki/Public-key_cryptography) Without Open Storage on Server Side.
 
 ![loginform](https://raw.githubusercontent.com/bezzad/SecureChat/master/login.png)
 
 ![chatform](https://raw.githubusercontent.com/bezzad/SecureChat/master/chatform.png)
 -----------------------
 
-## How to use
+## How To Use
 
 * install [node.js](https://nodejs.org)
 * clone this repository
@@ -19,7 +19,7 @@ Client side secure chat, based on [node.js](https://nodejs.org), [socket.io](htt
 
 -----------------------
 
-## References that have been used
+## References
 
 * [**Node.js®**](https://nodejs.org) is a [JavaScript](http://en.wikipedia.org/wiki/JavaScript) runtime built on [Chrome's V8 JavaScript engine](https://developers.google.com/v8/).
 
