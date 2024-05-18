@@ -4,7 +4,7 @@ Client Side Secure Chat, Based on [node.js](https://nodejs.org), [socket.io](htt
 
 ![loginform](https://github.com/Zavitar97/SecureChatApp/blob/main/login.png)
 
-![chatform](https://raw.githubusercontent.com/bezzad/SecureChat/master/chatform.png)
+![chatform](https://github.com/Zavitar97/SecureChatApp/blob/main/ChatInterface.png)
 -----------------------
 
 ## How To Use
