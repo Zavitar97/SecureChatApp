@@ -7,6 +7,12 @@ Welcome to the Secure Chat Application Repository! This Project Aims to Provide 
 ![chatform](https://github.com/Zavitar97/SecureChatApp/blob/main/ChatInterface.png)
 -----------------------
 
+## Developed By
+
+Manukulasooriya G.E. - IT20664930
+Yeshani A.V.S.H. - IT20623586
+-----------------------
+
 ## How To Use
 
 * Install [node.js](https://nodejs.org)
