@@ -9,8 +9,8 @@ Welcome to the Secure Chat Application Repository! This Project Aims to Provide 
 
 ## Developed By
 
-Manukulasooriya G.E. - IT20664930
-Yeshani A.V.S.H. - IT20623586
+*Manukulasooriya G.E. - IT20664930
+*Yeshani A.V.S.H. - IT20623586
 -----------------------
 
 ## How To Use
