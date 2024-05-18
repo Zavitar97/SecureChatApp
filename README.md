@@ -1,6 +1,6 @@
 # Secure Chat
 
-Client Side Secure Chat, Based on [node.js](https://nodejs.org), [socket.io](https://socket.io/) and [asymmetric encryption](https://en.wikipedia.org/wiki/Public-key_cryptography) Without Open Storage on Server Side.
+Welcome to the Secure Chat Application Repository! This Project Aims to Provide a Robust and Secure Communication Platform Leveraging Client Side Secure Chat, Based on [node.js](https://nodejs.org), [socket.io](https://socket.io/) and [Asymmetric Encryption](https://en.wikipedia.org/wiki/Public-key_cryptography) Without Open Storage on Server Side. Our Application Ensures End-to-End Encryption, Safeguarding User Privacy and Data Integrity.
 
 ![loginform](https://github.com/Zavitar97/SecureChatApp/blob/main/login.png)
 
@@ -9,17 +9,17 @@ Client Side Secure Chat, Based on [node.js](https://nodejs.org), [socket.io](htt
 
 ## How To Use
 
-* install [node.js](https://nodejs.org)
-* clone this repository
-* go to `src\` folder
-* run below commands in your command line:
+* Install [node.js](https://nodejs.org)
+* Clone this Repository
+* Go to `src\` Folder
+* Run the Below Commands in Your Command Line:
     + $ npm install
     + $ node app.js
-* open your browser and enter your server url (http://localhost)
+* Open Your Browser and Enter Your Server URL (http://localhost:80)
 
 -----------------------
 
-## References
+## Technologies Used
 
 * [**Node.js®**](https://nodejs.org) is a [JavaScript](http://en.wikipedia.org/wiki/JavaScript) runtime built on [Chrome's V8 JavaScript engine](https://developers.google.com/v8/).
 
