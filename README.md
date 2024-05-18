@@ -9,8 +9,8 @@ Welcome to the Secure Chat Application Repository! This Project Aims to Provide 
 
 ## Developed By
 
-* [Manukulasooriya G.E.](it20664930@sliit.lk) - IT20664930
-* [Yeshani A.V.S.H.](it20623586@sliit.lk) - IT20623586
+* [Manukulasooriya G.E.](it20664930@my.sliit.lk) - IT20664930
+* [Yeshani A.V.S.H.](it20623586@my.sliit.lk) - IT20623586
 -----------------------
 
 ## How To Use
